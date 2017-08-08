@@ -1,0 +1,26 @@
+{
+  "name": "yeedriver-templateprinter",
+  "version": "1.0.0",
+  "description": "yeedriver templateprinter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czjs2/yeedriver-templateprinter.git"
+  },
+  "author": "fx",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/czjs2/yeedriver-templateprinter/issues"
+  },
+  "homepage": "https://github.com/czjs2/yeedriver-templateprinter#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "fx-template-to-pdf-node": "^1.0.2",
+    "moment": "^2.18.1",
+    "printer": "^0.2.2",
+    "yeedriver-base": "^1.0.1"
+  }
+}
